@@ -1,6 +1,6 @@
 {
-    "name": "My PWA",
-    "short_name": "PWA",
+    "name": "Biglang Guapo Barber Shop",
+    "short_name": "BGBS",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
